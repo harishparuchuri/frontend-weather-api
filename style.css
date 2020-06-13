@@ -38,7 +38,7 @@
   }
   .dd{
       margin-left: 25%;
-      margin-top: 10%;
+      /* margin-top: 10%; */
   }
   #pp{
       color: black;
@@ -57,7 +57,32 @@
   }
   #tt{
       margin-left: 20%;
-      margin-top: 20%;
+      margin-top: 15%;
+  }
+
+  #showPlace{
+      font-size: 35px;
+      color: black;
+      font-weight: 900;
+      font-family: 'Courier New', Courier, monospace;
+  }
+
+  #showDayAndTime{
+      font-size: 25px;
+      color: black;
+      font-weight: 700;
+  }
+
+  #showWeather{
+      font-size: 25px;
+      color: black;
+      font-weight: 700;
+  }
+
+  #showTemperature{
+      font-weight: 900;
+      font-size: 35px;
+      color: black;
   }
      
     
